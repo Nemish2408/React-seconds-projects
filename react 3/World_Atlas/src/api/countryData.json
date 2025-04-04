@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interestingFacts": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 214000000,
+      "interestingFacts": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "interestingFacts": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 4,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83100000,
+      "interestingFacts": "Germany is known for its Autobahn, which has no general speed limit."
+    },
+    {
+      "id": 5,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "interestingFacts": "India is the world's largest democracy."
+    },
+    {
+      "id": 6,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interestingFacts": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+    },
+    {
+      "id": 7,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67000000,
+      "interestingFacts": "France is the most visited country in the world."
+    },
+    {
+      "id": 8,
+      "countryName": "South Africa",
+      "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+      "population": 60000000,
+      "interestingFacts": "South Africa has three capital cities."
+    },
+    {
+      "id": 9,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 146000000,
+      "interestingFacts": "Russia is the largest country in the world by land area."
+    },
+    {
+      "id": 10,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 126000000,
+      "interestingFacts": "Mexico introduced chocolate to the world."
+    }
+  ]
+  
